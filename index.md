@@ -2,25 +2,110 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+<head>
+  <meta property="og:image" content="https://social.yael.ca/img/yo-header.jpg">
+  <meta itemprop="name" content="Yael"><meta itemprop="description" content="Website for Canadian-American consumer advocate and writer Ya&euml;l Ossowski."><meta itemprop="image" content="https://social.yael.ca/img/yo-header.jpg"><meta property="og:url" content="https://social.yael.ca/"><meta property="og:type" content="website"><meta property="og:title" content="Ya&euml;l Ossowski "><meta property="og:site_name" content="Ya&euml;l Ossowski"><meta property="og:description" content="Website for Canadian-American consumer advocate and writer Ya&euml;l Ossowski."><meta property="og:image" content="https://social.yael.ca/img/yo-header.jpg"><meta name="lightning" content="lnurlp:yael@getalby.com"/><meta name="twitter:site" content="@yaeloss"><meta name="twitter:creator" content="@yaeloss"><meta name="twitter:title" content=" Ya&euml;l Ossowski "><meta name="twitter:url" content="https://social.yael.ca/"><meta name="twitter:description" content="A social website for consumer advocate and writer Ya&euml;l Ossowski."><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://social.yael.ca/img/yo-header.jpg">
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q4LN7EHTD9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-There should be whitespace between paragraphs.
+  gtag('config', 'G-Q4LN7EHTD9');
+</script>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+  <!-- Common metas -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta property="og:image" content="https://social.yael.ca/img/yo-header.jpg">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  <title>
+  Yaël Ossowski
+  </title>
 
-## Header 2
+  <meta name="description" content="Website for Canadian-American consumer advocate and writer Ya&euml;l Ossowski.">
+  <meta name="keywords" content="yael, ossowski, ya&euml;l, yael ossowski, ya&euml;l ossowski">
+  <link rel="canonical" href="https://yael.at">
+  <link rel="alternate" type="application/rss+xml" title="Yael.at" href="https://social.yael.ca/feed.xml">
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Lora:400,400i,700" rel="stylesheet">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+  <!-- CSS files -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
 
-### Header 3
+  <body>
+
+    <div class="site">
+
+      <header class="site-header">
+
+  <h1 class="site-title">
+    <a href="/" title="Home page"><img class="site-logo" src="/assets/img/cropped-yo-fav-1.png"></a>
+  </h1>
+
+  <nav class="site-nav">
+    <a href="https://yael.ca"   title="My articles" >Writing</a>
+  </nav>
+
+</header>
+<!-- site-header -->
+
+      <div class="site-content">
+        <div class="lead pretty-links">
+  <center><img src="https://yael.at/img/yo-header.jpg" /></center>
+  <p>My name is <b>Yaël Ossowski</b>.</p>
+  
+  <p>I’m a consumer and technology advocate, writer, syndicated radio host, podcaster, and sometimes digital entrepreneur based between Vienna, Austria and North Carolina.</p>
+
+  <p>I’m Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin"><i class="fa fa-btc"></i>itcoin</a>.</p>
+    
+  <p>Since 2023, I'm a Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I'm hosting much of my research and writing on state-level public policy on Bitcoin.</p>
+          
+  <p>I'm a co-host on the syndicated radio show and podcast <a href="https://consumerchoicecenter.org/radio/">Consumer Choice Radio</a>, and a collaborator and co-host on the <a href="https://fixthemoney.net">Fix The Money</a> podcast and Substack.</p>
+
+  <p>You can read my 10+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
+  
+  <p>Nostr: npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc</p>
+  
+  <p>&#9889;yael[at]yael.at</p>
+        </div>
+
+      </div>
+      <script src="https://nocomment.fiatjaf.com/embed.js" id="nocomment"></script>
+      <!-- site-content -->
+
+      <footer class="site-footer">
+<head>
+    <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+  
+<body>
+<center>
+  <div class="site-copy">&copy; 2023 <b>Yael.at</b></span></div>
+<center>
+        
+        <li><a target="_blank" rel="external" href="https://twitter.com/yaeloss" class="fa fa-twitter"></a></li>
+        
+      </ul>
+    </div>
+</footer>
+<!-- site-footer -->
+
+
+
+<script src="/assets/js/main.js"></script>
+
+
+
 
 ```js
 // Javascript code with syntax highlighting.
