@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/yo-header.jpg)
+![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/head.png)
 
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
@@ -15,10 +15,10 @@ layout: default
   <p>I'm a co-host on the syndicated radio show and podcast <a href="https://consumerchoicecenter.org/radio/">Consumer Choice Radio</a>, and a collaborator and co-host on the <a href="https://fixthemoney.net">Fix The Money</a> podcast and Substack.</p>
 
   <p>You can read my 10+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
-  
-  <p>Nostr: npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc</p>
  
 <center>  
-### &#9889;yael[at]yael.at
+nostr + bitcoin lightning 
+
+&#9889;yael[at]yael.at
 * * *
 </center>
