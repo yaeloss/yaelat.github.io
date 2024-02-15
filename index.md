@@ -9,11 +9,9 @@ layout: default
 
   <p>I’m Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin"><i class="fa fa-btc"></i>itcoin</a>.</p>
     
-  <p>Since 2023, I'm a Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I'm hosting much of my research and writing on state-level public policy on Bitcoin.</p>
+  <p>I'm also a Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I'm hosting much of my research and writing on state-level public policy on Bitcoin.</p>
           
-  <p>I'm a co-host on the syndicated radio show and podcast <a href="https://consumerchoicecenter.org/radio/">Consumer Choice Radio</a>, and a collaborator and co-host on the <a href="https://fixthemoney.net">Fix The Money</a> podcast and Substack.</p>
-
-  <p>You can read my 10+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
+  <p>You can read my 14+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
  
 
 ## nostr + bitcoin lightning 
