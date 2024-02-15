@@ -19,7 +19,6 @@ layout: default
   
   <p>Nostr: npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc</p>
  
- 
 <center>  
 ### &#9889;yael[at]yael.at
 * * *
