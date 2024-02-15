@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+###
 
 ![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/yo-header.jpg)
 
@@ -25,9 +21,8 @@ layout: default
  
  
 <center>  
-```
-&#9889;yael[at]yael.at
-```
+### &#9889;yael[at]yael.at
+* * *
 </center>
 
 
