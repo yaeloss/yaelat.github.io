@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<center>
 ![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/head.png)
-</center>
 
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
@@ -18,12 +16,6 @@ layout: default
   <p>You can read my 10+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
  
 
-# nostr + bitcoin lightning 
+## nostr + bitcoin lightning 
 
-&#9889;yael[at]yael.at
-
-# nostr + bitcoin lightning 
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## &#9889;yael[at]yael.at
+# &#9889;yael[at]yael.at
