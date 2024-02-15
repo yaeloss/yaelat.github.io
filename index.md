@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
+### Small image
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-<center>
+### Large image
+
 ![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/yo-header.jpg)
-</center>
+
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
   <p>I’m a consumer and technology advocate, writer, syndicated radio host, podcaster, and sometimes digital entrepreneur based between Vienna, Austria and North Carolina.</p>
