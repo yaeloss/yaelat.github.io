@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<center><img src="https://yael.at/img/yo-header.jpg" /></center>
+<center>![Header](https://yael.at/img/yo-header.jpg)</center>
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
   <p>I’m a consumer and technology advocate, writer, syndicated radio host, podcaster, and sometimes digital entrepreneur based between Vienna, Austria and North Carolina.</p>
