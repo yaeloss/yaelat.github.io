@@ -4,7 +4,7 @@ layout: default
 
 
 <center>
-![Header](https://yael.at/assets/images/yo-header.jpg)
+![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/yo-header.jpg)
 </center>
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
