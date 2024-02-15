@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-<center>![Header](https://yael.at/img/yo-header.jpg)</center>
+<center>
+![Header](https://yael.at/assets/images/yo-header.jpg)
+</center>
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
   <p>I’m a consumer and technology advocate, writer, syndicated radio host, podcaster, and sometimes digital entrepreneur based between Vienna, Austria and North Carolina.</p>
@@ -17,8 +19,13 @@ layout: default
   <p>You can read my 10+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
   
   <p>Nostr: npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc</p>
-  
-  <p>&#9889;yael[at]yael.at</p>
+ 
+ 
+<center>  
+```
+&#9889;yael[at]yael.at
+```
+</center>
 
 
 
