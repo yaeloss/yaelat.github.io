@@ -5,9 +5,9 @@ layout: default
 
   <p>My name is <b>Yaël Ossowski</b>.</p>
   
-  <p>I’m a consumer and technology advocate, writer, syndicated radio host, podcaster, and sometimes digital entrepreneur based between Vienna, Austria and North Carolina.</p>
+  <p>I’m a consumer and technology advocate, writer, and journalist based between Vienna, Austria and North Carolina.</p>
 
-  <p>I’m Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin"><i class="fa fa-btc"></i>itcoin</a>.</p>
+  <p>I’m Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin">Bitcoin</a>.</p>
     
   <p>I'm also a Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I'm hosting much of my research and writing on state-level public policy on Bitcoin.</p>
           
