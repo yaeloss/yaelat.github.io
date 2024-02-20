@@ -13,7 +13,10 @@ layout: default
           
   <p>You can read my 14+ year archive of <a href="http:/yael.ca/">articles</a>, follow me on <a href="/links/">social media</a>, or <a href="/contact/">contact</a> me via email or PGP.</p>
  
+ <center>
 
 ## nostr + bitcoin lightning 
 
 # &#9889;yael[at]yael.at
+
+</center>
