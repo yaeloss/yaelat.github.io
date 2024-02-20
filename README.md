@@ -1,7 +1,5 @@
 # Yael.at
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+The personal bio website of Canadian-American consumer advocate and writer Yaël Ossowski.
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
-
-![Thumbnail of Hacker](thumbnail.png)
+This theme is forced from the open-source GitHubpages theme [Hacker](#usage).*
