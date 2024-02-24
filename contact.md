@@ -6,9 +6,7 @@ layout: default
 
 yael [at] yael [dot] ca
 
-—–BEGIN PGP PUBLIC KEY BLOCK—–
-Version: OpenPGP.js v4.10.10
-Comment: https://openpgpjs.org
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEXz5gThYJKwYBBAHaRw8BAQdAO+83aZAxPXvAcq7QVARi/z9pl3jbL9n7
 OmeYDQIoD+TNG3lhZWxAeWFlbC5jYSA8eWFlbEB5YWVsLmNhPsKPBBAWCgAg
@@ -21,7 +19,7 @@ IQStAQwQdGOniV5XVbSMxXRfwb5RCynsAP0b5bSXq5UUsNeGEEts1xUSmrkG
 Xrp9EEzlFjyUqLmoyAD/YRcq4JJ2Tk19/eps1uYJPkD9CRKVzOBZWPMM1nCC
 Nw8=
 =/Xrf
-—–END PGP PUBLIC KEY BLOCK—–
+-----END PGP PUBLIC KEY BLOCK-----
 
 
 [back](./)
