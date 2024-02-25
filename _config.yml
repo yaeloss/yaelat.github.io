@@ -1,5 +1,6 @@
 title: Yaël.at
-description: 
+description: The personal website of Canadian-American consumer advocate Yaël Ossowski.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+include: [".well-known"]
