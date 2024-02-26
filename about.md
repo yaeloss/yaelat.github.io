@@ -15,7 +15,7 @@ My name is Yaël Ossowski.
 
 I’m a consumer and technology advocate, writer, and podcaster based between Vienna, Austria and North Carolina.
 
-I’m Deputy Director at the Consumer Choice Center, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And Bitcoin.
+I’m Deputy Director at the <a href="https://consumerchoicecenter.org/team/yael-ossowski/">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin">Bitcoin</a>.
 
 I co-host the Consumer Choice Podcast, post various interviews and videos of mine on my YouTube channel, and I’m a collaborator and co-host on the Fix The Money podcast and Substack.
 
@@ -29,7 +29,7 @@ Since 2011, I’ve been a member of the Society of Professional Journalists and 
 
 Je suis né au Québec, raised in the American south, and spend most of my days in Central Europe.
 
-You can read my 10+ year archive of articles, follow me on social media, or contact me via email or PGP.
+Read my articles over on <a href="https://yael.ca">Yael.ca</a>.
 
 Nostr: npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc
 
