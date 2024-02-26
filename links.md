@@ -18,6 +18,8 @@ X/Twitter: <a href="https://twitter.com/yaeloss">@YaelOss</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/yaeloss/">@yaeloss</a>
 
+Keybase: <a href="https://keybase.io/yael">@yael</a>
+
 PayNym (BIP47): <a href="https://paynym.is/+yael">+yael</a>
 
 BTCPay Server:
