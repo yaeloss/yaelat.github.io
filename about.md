@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-(https://yaeloss.github.io/yaelat.github.io/img/redYO.jpg)
+![Header](https://yaeloss.github.io/yaelat.github.io/img/redYO.jpg)
 
 # Bonjour
 
