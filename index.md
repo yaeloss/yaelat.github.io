@@ -5,7 +5,9 @@ layout: default
 
   <p><b>Yaël Ossowski</b>.</p>
   
-  <p>Consumer and technology advocate, writer, and journalist based between Vienna, Austria and North Carolina.</p>
+  <p>consumer and technology advocate, writer, and journalist.
+  
+  <p>Vienna.</p>
 
   <p>–deputy director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a></p>
     
