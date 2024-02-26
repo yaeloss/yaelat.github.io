@@ -5,7 +5,7 @@ layout: default
 
   <p><b>Yaël Ossowski</b></p>
   
-  <p>🇨🇦🇺🇸consumer + technology advocate, writer.
+  <p>🇨🇦🇺🇸consumer + tech advocate, writer.
   
   <p>🇦🇹vienna.</p>
 
