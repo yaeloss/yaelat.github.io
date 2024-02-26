@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/head.png)
+![Header](https://yael.at/assets/images/head.png)
 
 ## Yaël Ossowski
 
