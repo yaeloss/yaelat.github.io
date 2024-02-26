@@ -6,10 +6,7 @@ layout: default
 
 ![Header](https://yaeloss.github.io/yaelat.github.io/img/redYO400.jpg)
 
-# Bonjour
-
-
-Bonjour.
+# Bonjour.
 
 My name is Yaël Ossowski.
 
