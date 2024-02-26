@@ -7,7 +7,7 @@ layout: default
   
   <p>consumer and technology advocate, writer, and journalist.
   
-  <p>Vienna.</p>
+  <p>vienna.</p>
 
   <p>–deputy director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a></p>
     
@@ -15,4 +15,4 @@ layout: default
           
   <p>–archive of <a href="http:/yael.ca/">articles</a>, <a href="/links">social media</a>, <a href="/contact">contact</a>.</p>
 
-# &#9889;yael[at]yael.at
+  <p>&#9889;yael[at]yael.at</p>
