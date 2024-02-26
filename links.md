@@ -12,7 +12,7 @@ Collaborator on the <a href="https://fixthemoney.net">Fix The Money</a> podcast 
 
 Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>
 
-Nostr + Lightning address: <a href="https://nostr.at/npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc">yael[at]yael[dot]at</a>
+Nostr + Lightning address: <a href="https://nostr.at/npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc">yael[at]yael.at</a>
 
 X/Twitter: <a href="https://twitter.com/yaeloss">@YaelOss</a>
 
