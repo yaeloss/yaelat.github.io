@@ -3,7 +3,8 @@ layout: default
 ---
 ![Header](https://yaeloss.github.io/yaelat.github.io/assets/images/head.png)
 
-  <p><b>Yaël Ossowski</b></p>
+## Yaël Ossowski
+
   
   <p>🇨🇦🇺🇸consumer + tech advocate, writer
   
