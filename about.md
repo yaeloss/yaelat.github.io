@@ -22,7 +22,7 @@ Previously, I was an investigative reporter at <a href="https://yael.ca/category
 
 I have written and been syndicated in hundreds of publications globally, including USA Today, the Boston Herald, Chicago Tribune, Miami Herald, La Presse, Le Journal de Montréal, Austin American-Statesman, Washington Examiner, Huffington Post, The Charlotte Observer, Arizona Capitol Times, The Philadelphia Inquirer, Detroit News, Reason Magazine, American Spectator, The Gaston Gazette, FoxNews.com, and much more. A full list can be <a href="https://yael.ca/writings/">found here</a>.
 
-Since 2011, I’ve been a member of the Society of Professional Journalists and I studied Political Science and History at Concordia University in Montréal and the University of Vienna. I received a Master’s Degree in Philosophy, Politics, Economics at CEVRO in Prague, Czech Republic.
+Since 2011, I’ve been a member of the Society of Professional Journalists. I studied Political Science and History at Concordia University in Montréal and the University of Vienna, and I received a Master’s Degree in Philosophy, Politics, Economics at CEVRO in Prague, Czech Republic.
 
 Je suis né au Québec, raised in the American south, and spend most of my days in Central Europe and Washington, D.C.
 
