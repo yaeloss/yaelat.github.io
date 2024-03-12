@@ -10,7 +10,7 @@ layout: default
 
 My name is Yaël Ossowski.
 
-I’m a consumer and technology advocate, journlist, and writer.
+I’m a consumer and technology advocate, journalist, and writer.
 
 I’m Deputy Director at the <a href="https://consumerchoicecenter.org/team/yael-ossowski/">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin">Bitcoin</a>.
 
