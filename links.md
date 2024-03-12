@@ -8,7 +8,7 @@ Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choic
 
 Host of <a href="https://omny.fm/shows/consumerchoiceradio">Consumer Choice Podcast</a>
 
-Collaborator on the <a href="https://fixthemoney.net">Fix The Money</a> podcast and substack
+Collaborator on the <a href="https://fixthemoney.net">Fix The Money</a> podcast + substack
 
 Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>
 
