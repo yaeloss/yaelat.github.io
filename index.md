@@ -12,4 +12,4 @@ layout: default
     
   <p>–visiting fellow <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a></p>
           
-  <p>–archive of <a href="http:/yael.ca/">my articles</a>
+  <p>–archive of <a href="http:/yael.ca/">writing</a>
