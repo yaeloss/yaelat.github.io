@@ -10,7 +10,7 @@ layout: default
 
 My name is Yaël Ossowski.
 
-I’m a consumer and technology advocate, writer, and podcaster based between Vienna and North Carolina.
+I’m a consumer and technology advocate, journlist, and writer.
 
 I’m Deputy Director at the <a href="https://consumerchoicecenter.org/team/yael-ossowski/">Consumer Choice Center</a>, and a contributor to newspapers, magazines, and online outlets on issues of technological innovation, lifestyle freedom, and smart policy. And <a href="https://yael.ca/?s=bitcoin">Bitcoin</a>.
 
@@ -24,7 +24,7 @@ I have written and been syndicated in hundreds of publications globally, includi
 
 Since 2011, I’ve been a member of the Society of Professional Journalists and I studied Political Science and History at Concordia University in Montréal and the University of Vienna. I received a Master’s Degree in Philosophy, Politics, Economics at CEVRO in Prague, Czech Republic.
 
-Je suis né au Québec, raised in the American south, and spend most of my days in Central Europe.
+Je suis né au Québec, raised in the American south, and spend most of my days in Central Europe and Washington, D.C.
 
 Read my articles over on <a href="https://yael.ca">Yael.ca</a>.
 
