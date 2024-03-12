@@ -6,9 +6,7 @@ layout: default
 ## Yaël Ossowski
 
   
-  <p>🇨🇦🇺🇸consumer + tech advocate, writer
-  
-  <p>🇦🇹vienna</p>
+  <p>🇨🇦🇺🇸consumer + tech advocate, journalist, and writer
 
   <p>–deputy director <a href="https://consumerchoicecenter.org">Consumer Choice Center</a></p>
     
