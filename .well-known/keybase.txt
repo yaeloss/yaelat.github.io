@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yael
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yael.at
+  * I am yael (https://keybase.io/yael) on keybase.
+  * I have a public key ASD7HLWLArTv2-a439NE501dtjq7doSWTg3Y04x0DChCgQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fb1cb58b02b4efdbe6b8dfd344e74d5db63abb7684964e0dd8d38c740c2842810a",
+      "host": "keybase.io",
+      "kid": "0120fb1cb58b02b4efdbe6b8dfd344e74d5db63abb7684964e0dd8d38c740c2842810a",
+      "uid": "414a698b093ef3c6e3eb11ec9cbbc819",
+      "username": "yael"
+    },
+    "merkle_root": {
+      "ctime": 1710506968,
+      "hash": "165e0034d2757f627a8af4a93caf5af069346b32b3edaa355bc2bf8e7d11a319e9ad49c9dfec21ff7f30df7f5d799c07adae6afb710a982317d82ede77539507",
+      "hash_meta": "0881cd86034bc25a15f8c6da624842a4dbcb0acb0cbfa1b1f1edbb2ca2167aeb",
+      "seqno": 25554863
+    },
+    "service": {
+      "entropy": "gYCw0lZ+sFVRIpwB3SqzGQmE",
+      "hostname": "yael.at",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1710507007,
+  "expire_in": 504576000,
+  "prev": "53e464b124b86f01bed93ef8c49843c9d59a92bd7e319ef6357be495cc4fae8a",
+  "seqno": 79,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+xy1iwK079vmuN/TROdNXbY6u3aElk4N2NOMdAwoQoEKp3BheWxvYWTESpcCT8QgU+RksSS4bwG+2T74xJhDydWakr1+MZ72NXvklcxProrEIKHcBh9/GH1p+lRcH3mv2IxkodNS72dRFqhG48V1rEIxAgHCo3NpZ8RAekcx9nohElNC4G8rMzDX2+3zSwVs3PI8rZc0C0VA/+InWF5DzPZ9+fRdc1e12Fi+OkF1IXSSd8vx1R7wp7laA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/eC1SuWUVX/Ja0NBWCBwNMrsBwGdyttvC5jBmEi2Efo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yael
+
+==================================================================
