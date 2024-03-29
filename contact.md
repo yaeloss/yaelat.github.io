@@ -4,7 +4,7 @@ layout: default
 
 ## Contact
 
-<a href="https://signal.me/#eu/Q2rTUh2WrdTH3bkxdZfpOFeSF35VtfhLdmjBYGl4RdJJEa0/vzdED7KQ7upcfPhK"signal</a>
+<a href="https://signal.me/#eu/Q2rTUh2WrdTH3bkxdZfpOFeSF35VtfhLdmjBYGl4RdJJEa0/vzdED7KQ7upcfPhK">signal</a>
 
 yael [at] yael [dot] ca
 
