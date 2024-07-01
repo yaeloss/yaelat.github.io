@@ -6,6 +6,8 @@ layout: default
 
 <a href="https://signal.me/#eu/Q2rTUh2WrdTH3bkxdZfpOFeSF35VtfhLdmjBYGl4RdJJEa0/vzdED7KQ7upcfPhK">signal</a>
 
+<a href="https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FmoiiJsE6k46YCd_OgTF46tSkLWnDUl6Q%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA9i5YCUkU9arVPdAvrDZqg17dTCaqab84aPl9poGzyAg%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion">simpleX</a>
+
 yael [at] yael [dot] ca
 
 pgp: AD01 0C10 7463 A789 5E57  55B4 8CC5 745F C1BE 510B
