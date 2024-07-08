@@ -6,10 +6,6 @@ layout: default
 
 Deputy Director at the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>
 
-Host of <a href="https://omny.fm/shows/consumerchoiceradio">Consumer Choice Podcast</a>
-
-Collaborator on the <a href="https://fixthemoney.net">Fix The Money</a> podcast + substack
-
 Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>
 
 Nostr + Lightning address: <a href="https://nostr.at/npub15dnln6cukw3yrflnv3hnrntdt9amh0uw466u6tns05ymqp3nal4qzz3lfc">yael[at]yael.at</a>
