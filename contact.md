@@ -10,6 +10,8 @@ layout: default
 
 yael [at] yael [dot] ca
 
+yael [at] consumerchoicecenter [dot] org
+
 pgp: AD01 0C10 7463 A789 5E57  55B4 8CC5 745F C1BE 510B
 
 
