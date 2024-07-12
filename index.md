@@ -14,4 +14,6 @@ layout: default
           
   <p>–archive of <a href="http:/yael.ca/">articles and writing</a>
 
+  <p>latest articles:</a>
+  
   <p><script src="//rss.bloople.net/?url=https%3A%2F%2Fyael.ca%2Ffeed%2F&detail=-1&limit=5&showtitle=false&type=js"></script></p>
