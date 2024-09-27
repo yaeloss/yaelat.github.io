@@ -16,7 +16,7 @@ I’m Deputy Director at the <a href="https://consumerchoicecenter.org/team/yael
 
 I post various interviews and videos of mine on my <a href="https://www.youtube.com/@yaeloss">YouTube channel</a>, and you'll see a lot of my media hits tied to my work at the <a href="https://consumerchoicecenter.org/team/yael-ossowski/">Consumer Choice Center</a>.
 
-Since 2023, I’m a Visiting Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I’m hosting much of my research and writing on state-level public policy on Bitcoin.
+Since 2023, I’m a Fellow at the <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a>, where I’m hosting much of my research and writing on state-level public policy on Bitcoin.
 
 Previously, I was an investigative reporter at <a href="https://yael.ca/category/watchdog-org/">Watchdog.org</a>, serving as Florida Bureau Chief and chief Spanish translator. From 2013-2020, I worked as a grassroots organizer and fundraiser for Students For Liberty, primarily in Europe and the United States, but also on 3 other continents.
 
