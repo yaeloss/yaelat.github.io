@@ -10,7 +10,7 @@ layout: default
 
   <p>–deputy director <a href="https://consumerchoicecenter.org">Consumer Choice Center</a></p>
     
-  <p>–visiting fellow <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a></p>
+  <p>–fellow <a href="https://www.btcpolicy.org/authors/yael-ossowski">Bitcoin Policy Institute</a></p>
           
   <p>–archive of <a href="http:/yael.ca/">articles and writing</a>
 
